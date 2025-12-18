@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/github/license/anorak-rums/agentkit)](LICENSE)
 <div align="center">
   <p>
     <a href="https://docs.cdp.coinbase.com/agentkit/docs/welcome">
